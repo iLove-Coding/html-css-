@@ -1,0 +1,16 @@
+.clearfix {
+	*zoom: 1;
+}
+
+.tbh-arrows .next-licon,
+.next-ricon {
+	filter: alpha(opacity=30);
+}
+
+.tb-like-list li {
+	overflow: hidden;
+	display: inline;
+}
+.cdown-l-cover  {
+	filter: alpha(opacity=80);
+}
